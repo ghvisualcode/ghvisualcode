@@ -2,5 +2,5 @@
 
 Meu nome é Guilherme Ribeiro
 
-- Estou estudando programação e JavaScript
+- Estou estudando Programação e JavaScript
 - Desenvolvi projetos no [Scratch](https://scratch.mit.edu/accounts/login/?next=/mystuff/)
